@@ -26,6 +26,7 @@ global LANG := Map(
 		"tray_about", "Hakkında",
 		"about_description", "Her monitör için bağımsız çalışma alanları.",
 		"about_built", "AutoHotkey v2 ile geliştirilmiştir.",
+		"about_github","GitHub",
         "tray_open_ahk", "Program Konumunu Aç",
         "tray_reset", "Tüm Pencereleri Göster ve Sıfırla",
         "tray_help", "Kullanım Rehberi",
@@ -115,6 +116,7 @@ global LANG := Map(
 		"tray_about", "About",
 		"about_description", "Independent workspaces for each monitor.",
 		"about_built", "Built with AutoHotkey v2.",
+		"about_github","GitHub",
         "tray_open_ahk", "Open Program Location",
         "tray_reset", "Show All Windows & Reset",
         "tray_help", "User Guide",
@@ -1196,6 +1198,9 @@ ShowAbout(*) {
         "© 2026 İzzettin ALPASLAN"
     )
 
+	githubLink := aboutGui.AddText("x35 y217 w330 h25 Center", T("about_github"))
+	githubLink.OnEvent("Click", (*) => Run("https://github.com/izzetalpha/WorkspaceSwitcher"))
+	
     ; Kapat
     closeBtn := aboutGui.AddButton(
         "x140 y240 w120 h32",
@@ -1204,6 +1209,7 @@ ShowAbout(*) {
 
     closeBtn.OnEvent("Click", (*) => aboutGui.Destroy())
     aboutGui.OnEvent("Close", (*) => aboutGui.Destroy())
+	
 
     aboutGui.Show("w400 h290 Center")
 }
