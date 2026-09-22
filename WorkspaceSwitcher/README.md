@@ -4,7 +4,7 @@
 
 Download the latest version from the GitHub Releases page:
 
-[Download WorkspaceSwitcher v1.5.0](../releases/tag/latest)
+[Download WorkspaceSwitcher v1.5.0](https://github.com/izzetalpha/WorkspaceSwitcher/releases/latest)
 
 **Independent Monitor Workspaces for Windows**
 
