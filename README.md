@@ -30,6 +30,33 @@ It allows each monitor to have independent workspaces and provides a custom Alt+
 * Custom application icons
 * Built-in installation and uninstall support
 
+## Screenshots
+
+### Custom Alt+Tab
+
+Custom window switcher for quickly navigating between applications.
+
+![WorkspaceSwitcher Alt+Tab](screenshots/alt+tab.png)
+
+### Settings
+
+Configure workspaces, language, theme, animations and other options.
+
+![WorkspaceSwitcher Settings](screenshots/settings.png)
+
+### About
+
+Application information and direct access to the GitHub repository.
+
+![WorkspaceSwitcher About](screenshots/about.png)
+
+### System Tray
+
+Quick access to workspaces and application controls from the Windows system tray.
+
+![WorkspaceSwitcher System Tray](screenshots/tray.png)
+
+
 ## Keyboard Shortcuts
 
 | Shortcut                   | Action                                    |
