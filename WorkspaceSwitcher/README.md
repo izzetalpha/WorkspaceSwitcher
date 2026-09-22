@@ -113,31 +113,31 @@ WorkspaceSwitcher provides settings for:
 
 Custom window switcher for quickly navigating between applications.
 
-![WorkspaceSwitcher Alt+Tab](screenshots/alt+tab.jpg)
+![WorkspaceSwitcher Alt+Tab](../screenshots/alt+tab.jpg)
 
 ### Settings
 
 Configure workspaces, language, theme, animations and other options.
 
-![WorkspaceSwitcher Settings](screenshots/settings.jpg)
+![WorkspaceSwitcher Settings](../screenshots/settings.jpg)
 
 ### User Guide
 
 Built-in user guide for learning the application's features and keyboard shortcuts.
 
-![WorkspaceSwitcher User Guide](screenshots/user-guide.jpg)
+![WorkspaceSwitcher User Guide](../screenshots/user-guide.jpg)
 
 ### System Tray
 
 Quick access to workspaces and application controls from the Windows system tray.
 
-![WorkspaceSwitcher System Tray](screenshots/tray.jpg)
+![WorkspaceSwitcher System Tray](../screenshots/tray.jpg)
 
 ### About
 
 Application information and direct access to the GitHub repository.
 
-![WorkspaceSwitcher About](screenshots/about.jpg)
+![WorkspaceSwitcher About](../screenshots/about.jpg)
 
 
 ## Version
