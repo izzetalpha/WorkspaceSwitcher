@@ -1,5 +1,11 @@
 # WorkspaceSwitcher
 
+## Download
+
+Download the latest version from the GitHub Releases page:
+
+[Download WorkspaceSwitcher v1.5.0](../../releases/latest)
+
 **Independent Monitor Workspaces for Windows**
 
 WorkspaceSwitcher is a Windows workspace manager developed with **AutoHotkey v2**.
