@@ -59,7 +59,7 @@ WorkspaceSwitcher provides controls from the Windows system tray, including:
 * Restart
 * Exit
 
-Double-clicking the tray icon opens the custom window switcher.
+Double-clicking the tray icon opens the settings.
 
 ## Installation
 
